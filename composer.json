@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Merchantplus_Merchantplus",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "MerchantPlus NaviGate payment gateway for credit card processing.",
+    "authors": [
+    {
+        "name": "Merchantplus",
+        "email": "support@merchantplus.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

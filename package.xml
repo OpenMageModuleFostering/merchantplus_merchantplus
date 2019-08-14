@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Merchantplus_Merchantplus</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>GNU General Public License (GPL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>MerchantPlus NaviGate payment gateway for credit card processing.</summary>
+    <description>MerchantPlus NaviGate payment gateway for credit card processing.</description>
+    <notes>MerchantPlus NaviGate payment gateway for credit card processing.</notes>
+    <authors><author><name>Merchantplus</name><user>Merchantplus</user><email>support@merchantplus.com</email></author></authors>
+    <date>2014-10-01</date>
+    <time>04:35:21</time>
+    <contents><target name="magecommunity"><dir name="Merchantplus"><dir name="Merchantplus"><dir name="Model"><dir name="Adminhtml"><dir name="System"><dir name="Config"><dir name="Source"><file name="Transmethod.php" hash="ff9cfa9ae7fccfc6ba0342bae9a83225"/></dir></dir></dir></dir><file name="Merchantplus.php" hash="44d61de33c64d67eded31be3e5b86fe4"/><file name="Observer.php" hash="3b9dbb7ae8331900747cbca62d10a32d"/></dir><dir name="etc"><file name="config.xml" hash="73fada72b72ca1a0ec5891a7531e3ef9"/><file name="system.xml" hash="60d0178b1709b2000b601fb3828f65cf"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Merchantplus_Merchantplus.xml" hash="0ea6437475803b757b8a44515e450a34"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
